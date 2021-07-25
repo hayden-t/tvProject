@@ -21,7 +21,7 @@ playlist = [
 	{'day': 5, 'start': '1500', 'stop': '1600', 'record': '', 'file': 'rtsp://192.168.60.205:554/1'},#happy hour
 	{'day': 7, 'start': '0900', 'stop': '', 'record': '', 'file': '/home/user/Videos/church_karaoke.mp4'},
 
-	{'day': 7, 'start': '1431', 'stop': '1432', 'record': '', 'file': 'rtsp://192.168.60.205:554/1'},#test
+	#{'day': 7, 'start': '1431', 'stop': '1432', 'record': '', 'file': 'rtsp://192.168.60.205:554/1'},#test
 ]
 
 
