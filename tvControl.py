@@ -29,7 +29,6 @@ vlcCommandRecord = '--sout \'#duplicate{dst=display,dst="std{access=file,mux=mp4
 vlcStateFile = path+'vlcState.txt'
 tabletTest = '/usr/bin/ffprobe -v quiet '+tabletUrl
 
-print(vlcCommandRecord)
 
 if os.path.isfile(vlcStateFile):
 	vlcState = json.load(open(vlcStateFile, "rb"))
