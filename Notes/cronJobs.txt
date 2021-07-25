@@ -1,0 +1,4 @@
+* * * * * /bin/sh /home/user/tvProject/tvSchedule.sh >> /home/user/tvProject/cron.log
+
+0 0 * * * sshpass -p password rsync -avz --progress /home/user/tvProject/Sync/ rsync@192.168.60.250:happyHour >> /home/user/tvProject/cron.log
+

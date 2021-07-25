@@ -1,0 +1,504 @@
+(datetime.datetime(2021, 3, 10, 12, 50, 1, 118546), ' Video Started')
+kill 2573
+pid not running
+starting vlc
+9074
+(datetime.datetime(2021, 3, 10, 12, 51, 1, 802960), ' Stop Time')
+kill 9074
+(datetime.datetime(2021, 3, 10, 13, 36, 1, 113040), ' Video Started')
+starting vlc
+9393
+(datetime.datetime(2021, 3, 10, 13, 38, 1, 603030), ' Stop Time')
+kill 9393
+(datetime.datetime(2021, 3, 10, 13, 39, 1, 845407), ' Video Started')
+starting vlc
+9457
+(datetime.datetime(2021, 3, 10, 13, 43, 1, 203444), ' Video Started')
+kill 9457
+pid not running
+starting vlc
+9578
+(datetime.datetime(2021, 3, 10, 13, 45, 1, 688423), ' Video Started')
+kill 9578
+pid not running
+starting vlc
+9624
+(datetime.datetime(2021, 3, 10, 13, 47, 1, 161630), ' Stop Time')
+kill 9624
+(datetime.datetime(2021, 3, 10, 14, 0, 1, 880593), ' Video Started')
+starting vlc
+9838
+(datetime.datetime(2021, 3, 12, 11, 0, 2, 75), ' Video Started')
+kill 9838
+pid not running
+starting vlc
+30164
+(datetime.datetime(2021, 3, 12, 13, 0, 1, 694735), ' Video Started')
+kill 30164
+pid not running
+starting vlc
+3991
+(datetime.datetime(2021, 3, 12, 16, 0, 1, 497182), ' Stop Time')
+kill 3991
+(datetime.datetime(2021, 3, 14, 9, 0, 1, 829349), ' Video Started')
+starting vlc
+30783
+(datetime.datetime(2021, 3, 17, 14, 0, 1, 431390), ' Video Started')
+kill 30783
+pid not running
+starting vlc
+32515
+(datetime.datetime(2021, 3, 19, 11, 0, 1, 723007), ' Video Started')
+kill 32515
+pid not running
+starting vlc
+28117
+(datetime.datetime(2021, 3, 19, 13, 0, 1, 909778), ' Video Started')
+kill 28117
+pid not running
+starting vlc
+2402
+(datetime.datetime(2021, 3, 19, 16, 0, 1, 223424), ' Stop Time')
+kill 2402
+(datetime.datetime(2021, 3, 21, 9, 0, 1, 390946), ' Video Started')
+starting vlc
+2872
+(datetime.datetime(2021, 3, 24, 14, 0, 1, 262628), ' Video Started')
+kill 2872
+pid not running
+starting vlc
+2475
+(datetime.datetime(2021, 3, 26, 11, 0, 1, 53191), ' Video Started')
+kill 2475
+pid not running
+starting vlc
+22760
+(datetime.datetime(2021, 3, 26, 13, 0, 1, 125455), ' Video Started')
+kill 22760
+pid not running
+starting vlc
+28764
+(datetime.datetime(2021, 3, 26, 16, 0, 1, 64730), ' Stop Time')
+kill 28764
+(datetime.datetime(2021, 3, 28, 9, 0, 1, 696340), ' Video Started')
+starting vlc
+23486
+(datetime.datetime(2021, 3, 31, 14, 0, 1, 324396), ' Video Started')
+kill 23486
+pid not running
+starting vlc
+23790
+(datetime.datetime(2021, 4, 2, 11, 0, 1, 38987), ' Video Started')
+kill 23790
+pid not running
+starting vlc
+12423
+(datetime.datetime(2021, 4, 2, 13, 0, 1, 120645), ' Video Started')
+kill 12423
+pid not running
+starting vlc
+18488
+(datetime.datetime(2021, 4, 2, 16, 0, 1, 563860), ' Stop Time')
+kill 18488
+(datetime.datetime(2021, 4, 4, 9, 0, 1, 480140), ' Video Started')
+starting vlc
+13358
+(datetime.datetime(2021, 4, 7, 14, 0, 1, 958731), ' Video Started')
+kill 13358
+pid not running
+starting vlc
+22699
+(datetime.datetime(2021, 4, 9, 11, 0, 1, 633110), ' Video Started')
+kill 22699
+pid not running
+starting vlc
+18787
+(datetime.datetime(2021, 4, 9, 13, 0, 1, 392291), ' Video Started')
+kill 18787
+pid not running
+starting vlc
+25150
+(datetime.datetime(2021, 4, 9, 16, 0, 1, 264262), ' Stop Time')
+kill 25150
+(datetime.datetime(2021, 4, 11, 9, 0, 1, 814707), ' Video Started')
+starting vlc
+27851
+(datetime.datetime(2021, 4, 14, 14, 0, 1, 603417), ' Video Started')
+kill 27851
+pid not running
+starting vlc
+9442
+(datetime.datetime(2021, 4, 16, 11, 0, 1, 779215), ' Video Started')
+kill 9442
+pid not running
+starting vlc
+6105
+(datetime.datetime(2021, 4, 16, 13, 0, 1, 314988), ' Video Started')
+kill 6105
+pid not running
+starting vlc
+12501
+(datetime.datetime(2021, 4, 16, 16, 0, 1, 271685), ' Stop Time')
+kill 12501
+(datetime.datetime(2021, 4, 18, 9, 0, 1, 999714), ' Video Started')
+starting vlc
+14798
+(datetime.datetime(2021, 4, 19, 10, 16, 1, 607944), ' Tablet Started')
+kill 14798
+pid not running
+starting vlc
+32460
+(datetime.datetime(2021, 4, 19, 12, 0, 1, 230723), ' Tablet Stopped')
+kill 32460
+(datetime.datetime(2021, 4, 21, 14, 0, 1, 694789), ' Video Started')
+starting vlc
+2858
+(datetime.datetime(2021, 4, 22, 13, 55, 1, 314443), ' Tablet Started')
+kill 2858
+pid not running
+starting vlc
+20102
+(datetime.datetime(2021, 4, 22, 14, 29, 1, 254514), ' Tablet Stopped')
+kill 20102
+(datetime.datetime(2021, 4, 23, 11, 0, 1, 603345), ' Video Started')
+starting vlc
+29948
+(datetime.datetime(2021, 4, 23, 13, 0, 1, 681895), ' Video Started')
+kill 29948
+pid not running
+starting vlc
+3791
+(datetime.datetime(2021, 4, 23, 16, 0, 1, 132997), ' Stop Time')
+kill 3791
+(datetime.datetime(2021, 4, 25, 9, 0, 1, 451491), ' Video Started')
+starting vlc
+30737
+(datetime.datetime(2021, 4, 28, 14, 0, 1, 453412), ' Video Started')
+kill 30737
+pid not running
+starting vlc
+7688
+(datetime.datetime(2021, 4, 30, 11, 0, 2, 11214), ' Video Started')
+kill 7688
+pid not running
+starting vlc
+3972
+(datetime.datetime(2021, 4, 30, 13, 0, 1, 682428), ' Video Started')
+kill 3972
+pid not running
+starting vlc
+10318
+(datetime.datetime(2021, 4, 30, 16, 0, 1, 598341), ' Stop Time')
+kill 10318
+(datetime.datetime(2021, 5, 2, 9, 0, 1, 550953), ' Video Started')
+starting vlc
+12709
+(datetime.datetime(2021, 5, 5, 14, 0, 1, 293553), ' Video Started')
+kill 12709
+pid not running
+starting vlc
+25509
+(datetime.datetime(2021, 5, 7, 11, 0, 1, 274197), ' Video Started')
+kill 25509
+pid not running
+starting vlc
+21115
+(datetime.datetime(2021, 5, 7, 13, 0, 1, 359671), ' Video Started')
+kill 21115
+pid not running
+starting vlc
+27460
+(datetime.datetime(2021, 5, 7, 16, 0, 1, 953288), ' Stop Time')
+kill 27460
+(datetime.datetime(2021, 5, 9, 9, 0, 1, 544541), ' Video Started')
+starting vlc
+29258
+(datetime.datetime(2021, 5, 12, 14, 0, 1, 992847), ' Video Started')
+kill 29258
+pid not running
+starting vlc
+8668
+(datetime.datetime(2021, 5, 14, 11, 0, 1, 961048), ' Video Started')
+kill 8668
+pid not running
+starting vlc
+17795
+(datetime.datetime(2021, 5, 14, 13, 0, 1, 753375), ' Video Started')
+kill 17795
+pid not running
+starting vlc
+23803
+(datetime.datetime(2021, 5, 14, 16, 0, 1, 606341), ' Stop Time')
+kill 23803
+(datetime.datetime(2021, 5, 16, 9, 0, 1, 122412), ' Video Started')
+starting vlc
+18433
+(datetime.datetime(2021, 5, 19, 14, 0, 1, 561542), ' Video Started')
+kill 18433
+pid not running
+starting vlc
+27429
+(datetime.datetime(2021, 5, 21, 11, 0, 1, 806984), ' Video Started')
+kill 27429
+pid not running
+starting vlc
+23285
+(datetime.datetime(2021, 5, 21, 13, 0, 1, 30669), ' Video Started')
+kill 23285
+pid not running
+starting vlc
+29602
+(datetime.datetime(2021, 5, 21, 16, 0, 1, 155077), ' Stop Time')
+kill 29602
+(datetime.datetime(2021, 5, 23, 9, 0, 1, 239649), ' Video Started')
+starting vlc
+25040
+(datetime.datetime(2021, 5, 26, 14, 0, 1, 318937), ' Video Started')
+kill 25040
+pid not running
+starting vlc
+1958
+(datetime.datetime(2021, 5, 28, 11, 0, 1, 777038), ' Video Started')
+kill 1958
+pid not running
+starting vlc
+30047
+(datetime.datetime(2021, 5, 28, 13, 0, 1, 186772), ' Video Started')
+kill 30047
+pid not running
+starting vlc
+4238
+(datetime.datetime(2021, 5, 28, 16, 0, 1, 186690), ' Stop Time')
+kill 4238
+(datetime.datetime(2021, 5, 30, 9, 0, 1, 485039), ' Video Started')
+starting vlc
+6164
+(datetime.datetime(2021, 6, 2, 14, 0, 1, 610899), ' Video Started')
+kill 6164
+pid not running
+starting vlc
+18783
+(datetime.datetime(2021, 6, 4, 11, 0, 1, 999844), ' Video Started')
+kill 18783
+pid not running
+starting vlc
+13339
+(datetime.datetime(2021, 6, 4, 13, 0, 1, 871121), ' Video Started')
+kill 13339
+pid not running
+starting vlc
+19547
+(datetime.datetime(2021, 6, 4, 16, 0, 1, 694021), ' Stop Time')
+kill 19547
+(datetime.datetime(2021, 6, 6, 9, 0, 1, 894630), ' Video Started')
+starting vlc
+17629
+(datetime.datetime(2021, 6, 9, 14, 0, 1, 333778), ' Video Started')
+kill 17629
+pid not running
+starting vlc
+24056
+(datetime.datetime(2021, 6, 11, 11, 0, 1, 923044), ' Video Started')
+kill 24056
+pid not running
+starting vlc
+12257
+(datetime.datetime(2021, 6, 11, 13, 0, 1, 485468), ' Video Started')
+kill 12257
+pid not running
+starting vlc
+18260
+(datetime.datetime(2021, 6, 11, 16, 0, 1, 457360), ' Stop Time')
+kill 18260
+(datetime.datetime(2021, 6, 13, 9, 0, 1, 481272), ' Video Started')
+starting vlc
+12820
+(datetime.datetime(2021, 6, 16, 14, 0, 1, 630494), ' Video Started')
+kill 12820
+pid not running
+starting vlc
+12395
+(datetime.datetime(2021, 6, 18, 11, 0, 1, 256730), ' Video Started')
+kill 12395
+pid not running
+starting vlc
+5052
+(datetime.datetime(2021, 6, 18, 13, 0, 1, 69214), ' Video Started')
+kill 5052
+pid not running
+starting vlc
+11380
+(datetime.datetime(2021, 6, 18, 16, 0, 1, 822613), ' Stop Time')
+kill 11380
+(datetime.datetime(2021, 6, 20, 9, 0, 1, 375023), ' Video Started')
+starting vlc
+13147
+(datetime.datetime(2021, 6, 23, 14, 0, 1, 846533), ' Video Started')
+kill 13147
+pid not running
+starting vlc
+25032
+(datetime.datetime(2021, 6, 25, 11, 0, 1, 963195), ' Video Started')
+kill 25032
+pid not running
+starting vlc
+20394
+(datetime.datetime(2021, 6, 25, 13, 0, 1, 440652), ' Video Started')
+kill 20394
+pid not running
+starting vlc
+26699
+(datetime.datetime(2021, 6, 25, 16, 0, 1, 379388), ' Stop Time')
+kill 26699
+(datetime.datetime(2021, 6, 27, 9, 0, 1, 671158), ' Video Started')
+starting vlc
+28197
+(datetime.datetime(2021, 6, 30, 14, 0, 1, 746476), ' Video Started')
+kill 28197
+pid not running
+starting vlc
+8229
+(datetime.datetime(2021, 7, 2, 11, 0, 1, 238716), ' Video Started')
+kill 8229
+pid not running
+starting vlc
+4427
+(datetime.datetime(2021, 7, 2, 13, 0, 1, 878071), ' Video Started')
+kill 4427
+pid not running
+starting vlc
+10905
+(datetime.datetime(2021, 7, 2, 16, 0, 1, 372036), ' Stop Time')
+kill 10905
+(datetime.datetime(2021, 7, 4, 9, 0, 1, 926474), ' Video Started')
+starting vlc
+15067
+(datetime.datetime(2021, 7, 7, 14, 0, 1, 883956), ' Video Started')
+kill 15067
+pid not running
+starting vlc
+28392
+(datetime.datetime(2021, 7, 9, 11, 0, 1, 666207), ' Video Started')
+kill 28392
+pid not running
+starting vlc
+23630
+(datetime.datetime(2021, 7, 9, 13, 0, 1, 617325), ' Video Started')
+kill 23630
+pid not running
+starting vlc
+27125
+(datetime.datetime(2021, 7, 9, 16, 0, 1, 802072), ' Stop Time')
+kill 27125
+(datetime.datetime(2021, 7, 11, 9, 0, 1, 465726), ' Video Started')
+starting vlc
+25958
+(datetime.datetime(2021, 7, 14, 14, 0, 1, 148241), ' Video Started')
+kill 25958
+pid not running
+starting vlc
+9115
+(datetime.datetime(2021, 7, 16, 11, 0, 1, 887022), ' Video Started')
+kill 9115
+pid not running
+starting vlc
+5114
+(datetime.datetime(2021, 7, 16, 13, 0, 1, 276638), ' Video Started')
+kill 5114
+pid not running
+starting vlc
+11521
+(datetime.datetime(2021, 7, 16, 16, 0, 1, 585644), ' Stop Time')
+kill 11521
+(datetime.datetime(2021, 7, 18, 9, 0, 1, 208915), ' Video Started')
+starting vlc
+14333
+(datetime.datetime(2021, 7, 21, 14, 0, 1, 945650), ' Video Started')
+kill 14333
+pid not running
+starting vlc
+25410
+(datetime.datetime(2021, 7, 23, 11, 0, 1, 865058), ' Video Started')
+kill 25410
+pid not running
+starting vlc
+20459
+(datetime.datetime(2021, 7, 23, 13, 0, 1, 763840), ' Video Started')
+kill 20459
+pid not running
+starting vlc
+26787
+(datetime.datetime(2021, 7, 23, 16, 0, 1, 366195), ' Stop Time')
+kill 26787
+(datetime.datetime(2021, 7, 25, 9, 0, 1, 959255), ' Video Started')
+starting vlc
+24886
+(datetime.datetime(2021, 7, 25, 12, 42, 1, 348161), ' Video Started')
+kill 24886
+pid not running
+starting vlc
+32227
+(datetime.datetime(2021, 7, 25, 12, 43, 1, 457046), ' Stop Time')
+kill 32227
+(datetime.datetime(2021, 7, 25, 12, 43, 1, 457046), ' Video Started')
+kill 32227
+pid not running
+starting vlc
+32293
+(datetime.datetime(2021, 7, 25, 14, 4, 1, 853384), ' Stop Time')
+kill 1591
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-11.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-12.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-13.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 13, 1, 797850), ' Video Started')
+starting vlc
+1719
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-14.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 14, 1, 895373), ' Stop Time')
+kill 1719
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-15.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-16.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-17.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-19.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 19, 1, 348292), ' Stop Time')
+kill 1945
+pid not running
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-20.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-21.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-22.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-23.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-24.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-25.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-26.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 26, 1, 127186), ' Video Started')
+starting vlc
+2046
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-27.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 27, 1, 227343), ' Stop Time')
+kill 2046
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-28.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-29.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-30.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-31.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 31, 1, 617657), ' Video Started')
+starting vlc
+2167
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-32.mp4}"}'
+(datetime.datetime(2021, 7, 25, 14, 32, 1, 772610), ' Stop Time')
+kill 2167
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-33.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-34.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-35.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-36.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-37.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-38.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-39.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-40.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Temp/2021-07-25_14-41.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-42.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-43.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-44.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-45.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-46.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-47.mp4}"}'
+--sout '#duplicate{dst=display,dst="std{access=file,mux=mp4,dst=/home/user/tvProject/Recorded/2021-07-25_14-48.mp4}"}'
