@@ -21,11 +21,11 @@ udpAddress='239.0.0.1'
 playlist='/var/www/html/playlist/playlist.xspf'
 
 #vlcPlay="mpv --playlist=/var/www/html/playlist/playlist.mpv --loop-playlist -fs >> tvProject/mpv.log"
-vlcPlay="mpv --playlist=/var/www/html/playlist/playlist.mpv --loop-playlist -fs"
+#vlcPlay="mpv --playlist=/var/www/html/playlist/playlist.mpv --loop-playlist -fs"
 
 #vlcPlay="vlc -L -f --codec=ffmpeg --no-osd --no-spu --no-qt-error-dialogs --file-logging --logfile=$path'vlcLog.txt' --log-verbose=0 $playlist"
 #vlcPlay="vlc -vvv -L -f --codec=ffmpeg --no-spu $playlist  2>&1 | tee | /home/user/tvProject/timestamp.sh"
-#vlcPlay="vlc -R $fullscreen --no-osd --no-qt-error-dialogs $src3"
+vlcPlay="vlc -L -f --no-spu --no-osd --no-qt-error-dialogs $playlist"
 #vlcPlay="vlc -R $fullscreen --no-osd --no-qt-error-dialogs --aspect-ratio 5:4 $src3"
 
 #vlcRecord="vlc -I oldrc --rc-unix=$recordSocket --rc-fake-tty $src2 --sout '#std{access=file,mux=mp4,dst='$filename'}'"
