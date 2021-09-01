@@ -1,7 +1,0 @@
-#!/bin/sh
-#ps -aux | grep readproctitle
-sleep 30
-echo starting vlc-d
-export DISPLAY=:0 #needed for X program
-exec setuidgid user /usr/bin/vlc -R -f --no-qt-error-dialogs --aspect-ratio 5:4 rtsp://192.168.60.200:554/2
-#exec setuidgid user /usr/bin/vlc -R -f --no-qt-error-dialogs --aspect-ratio 4:3 rtsp://192.168.60.225:8080/video/h264#mobile
