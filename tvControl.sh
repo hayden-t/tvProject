@@ -1,6 +1,7 @@
 #!/bin/bash
 
 export DISPLAY=:0
+export XDG_RUNTIME_DIR=/run/user/1000
 
 path='/home/user/tvProject/'
 playSocket=$path'play.sock'
@@ -18,14 +19,14 @@ udpAddress='239.0.0.1'
 
 #--extraintf oldrc --rc-unix=$playSocket --rc-fake-tty
 
-playlist='/var/www/html/playlist/playlist.xspf'
+playlist='/home/user/tvProject-manager/html/playlist/playlist.xspf'
 
 #vlcPlay="mpv --playlist=/var/www/html/playlist/playlist.mpv --loop-playlist -fs >> tvProject/mpv.log"
-#vlcPlay="mpv --playlist=/var/www/html/playlist/playlist.mpv --loop-playlist -fs"
+#vlcPlay="mpv --playlist=/var/www/html/playlist/playlist.mpv --loop-playlist -fs --shuffle"
 
-#vlcPlay="vlc -L -f --codec=ffmpeg --no-osd --no-spu --no-qt-error-dialogs --file-logging --logfile=$path'vlcLog.txt' --log-verbose=0 $playlist"
+vlcPlay="screen -d -m vlc --loop --random --fullscreen --codec=ffmpeg --file-logging --logfile=$path'vlcLog.txt' --log-verbose=0 $playlist"
 #vlcPlay="vlc -vvv -L -f --codec=ffmpeg --no-spu $playlist  2>&1 | tee | /home/user/tvProject/timestamp.sh"
-vlcPlay="vlc -L -f --no-spu --no-osd --no-qt-error-dialogs $playlist"
+#vlcPlay="vlc --random -L -f --no-spu --no-osd --no-qt-error-dialogs $playlist"
 #vlcPlay="vlc -R $fullscreen --no-osd --no-qt-error-dialogs --aspect-ratio 5:4 $src3"
 
 #vlcRecord="vlc -I oldrc --rc-unix=$recordSocket --rc-fake-tty $src2 --sout '#std{access=file,mux=mp4,dst='$filename'}'"

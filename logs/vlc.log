@@ -1,0 +1,207 @@
+md5sum: /home/user/tvProject/temp.xspf: No such file or directory
+[00005564bd346af0] dbus interface error: Failed to connect to the D-Bus session daemon: /usr/bin/dbus-launch terminated abnormally with the following error: EOF in dbus-launch reading address from bus daemon
+
+[00005564bd346af0] main interface error: no suitable interface module
+[00005564bd278bc0] main libvlc error: interface "dbus,none" initialization failed
+Remote control interface initialized. Type `help' for help.
+[00005564bd351180] dummy interface: using the dummy interface module...
+[00007ffe6705a8c8] main generic error: cannot load plug-in /snap/vlc/3445/usr/lib/vlc/plugins/services_discovery/libupnp_plugin.so: libupnp.so.13: cannot open shared object file: No such file or directory
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.178
+netbios_ns_send_name_query, name query sent for '*'.
+Sending netbios packet to 192.168.60.250
+netbios_ns_send_name_query, name query sent for '*'.
+netbios_ns_handle_query, Found name: 'AVIGILON       ' in group: 'WORKGROUP      '
+[00005564bd3cea10] main services discovery error: socket bind error: Invalid argument
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+[00005564bd3cea10] main services discovery error: cannot join multicast group: No such device
+Sending netbios packet to 192.168.60.250
+netbios_ns_send_name_query, name query sent for '*'.
+netbios_ns_handle_query, Found name: 'MVH_NAS        ' in group: 'WORKGROUP      '
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+netbios_ns_handle_query, Found name: 'MVH_NAS        ' in group: 'WORKGROUP      '
+status change: (  state: 1 )
+[00007f5890000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00005564bd34bf50] main input error: Your media can't be opened
+[00005564bd34bf50] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+Sending netbios packet to 192.168.60.255
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+Sending netbios packet to 192.168.60.255
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+Sending netbios packet to 192.168.60.255
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+Sending netbios packet to 192.168.60.255
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+Sending netbios packet to 192.168.60.255
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f58900749c0] main input error: Your media can't be opened
+[00007f58900749c0] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+Sending netbios packet to 192.168.60.255
+status change: ( new input: file:///home/user/tvProject/temp.xspf )
+[00007f5894000da0] filesystem access error: cannot open file /home/user/tvProject/temp.xspf (No such file or directory)
+[00007f5890071430] main input error: Your media can't be opened
+[00007f5890071430] main input error: VLC is unable to open the MRL 'file:///home/user/tvProject/temp.xspf'. Check the log for details.
+status change: ( stop state: 0 )
+status change: ( new input: file:///home/user/tvProject-manager/html/playlist/playlist.xspf )
+status change: (  state: 1 )
+status change: ( new input: file:///mnt/sda3/Library/Relaxation/African%20Jungle%204K%20-%20The%20World's%20Second-Largest%20Tropical%20Rainforest%20%20%20Scenic%20Relaxation%20Film.mp4 )
+status change: ( play state: 2 )
+status change: ( audio volume: 0.736115 )
+[00007f587c0bee50] dbus_screensaver inhibit error: cannot connect to session bus: /usr/bin/dbus-launch terminated abnormally with the following error: EOF in dbus-launch reading address from bus daemon
+
+[00007f587c0d0e70] nvdec decoder device error: Cannot load libcuda.so.1
+
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+libva info: VA-API version 1.7.0
+libva info: Trying to open /snap/vlc/3445/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /snap/vlc/3445/usr/lib/x86_64-linux-gnu/dri/i965_drv_video.so
+libva info: Found init function __vaDriverInit_1_6
+libva info: va_openDriver() returns 0
+[00007f587c0f0280] vaapi generic: Using Intel i965 driver for Intel(R) Ivybridge Desktop - 2.4.0
+[00007f587c0f32e0] gl gl: Initialized libplacebo 4.0.0-dev-23560-g6f887e5e28 (API v229)
+[00007f587c0f32e0] gl gl: Detected OpenGL version strings:
+[00007f587c0f32e0] gl gl:     GL_VERSION:  3.0 Mesa 21.2.6
+[00007f587c0f32e0] gl gl:     GL_VENDOR:   Intel Open Source Technology Center
+[00007f587c0f32e0] gl gl:     GL_RENDERER: Mesa DRI Intel(R) HD Graphics 2500 (IVB GT1)
+[00007f587c0f32e0] gl gl:     GL_SHADING_LANGUAGE_VERSION: 1.30
+[00007f587c0f32e0] gl gl: GPU information:
+[00007f587c0f32e0] gl gl:     GLSL version: 130
+[00007f587c0f32e0] gl gl:       max_shmem_size:            65536
+[00007f587c0f32e0] gl gl:       max_group_threads:         1152
+[00007f587c0f32e0] gl gl:       max_group_size[0]:         1152
+[00007f587c0f32e0] gl gl:       max_group_size[1]:         1152
+[00007f587c0f32e0] gl gl:       max_group_size[2]:         1152
+[00007f587c0f32e0] gl gl:       subgroup_size:             0
+[00007f587c0f32e0] gl gl:       min_gather_offset:         -32
+[00007f587c0f32e0] gl gl:       max_gather_offset:         31
+[00007f587c0f32e0] gl gl:     Limits:
+[00007f587c0f32e0] gl gl:       thread_safe:               0
+[00007f587c0f32e0] gl gl:       callbacks:                 1
+[00007f587c0f32e0] gl gl:       max_buf_size:              18446744073709551615
+[00007f587c0f32e0] gl gl:       max_ubo_size:              65536
+[00007f587c0f32e0] gl gl:       max_ssbo_size:             134217728
+[00007f587c0f32e0] gl gl:       max_vbo_size:              18446744073709551615
+[00007f587c0f32e0] gl gl:       max_mapped_size:           18446744073709551615
+[00007f587c0f32e0] gl gl:       max_buffer_texels:         0
+[00007f587c0f32e0] gl gl:       align_host_ptr:            0
+[00007f587c0f32e0] gl gl:       max_tex_1d_dim:            16384
+[00007f587c0f32e0] gl gl:       max_tex_2d_dim:            16384
+[00007f587c0f32e0] gl gl:       max_tex_3d_dim:            2048
+[00007f587c0f32e0] gl gl:       blittable_1d_3d:           0
+[00007f587c0f32e0] gl gl:       buf_transfer:              1
+[00007f587c0f32e0] gl gl:       align_tex_xfer_pitch:      4
+[00007f587c0f32e0] gl gl:       align_tex_xfer_offset:     32
+[00007f587c0f32e0] gl gl:       max_variable_comps:        16384
+[00007f587c0f32e0] gl gl:       max_constants:             0
+[00007f587c0f32e0] gl gl:       max_pushc_size:            0
+[00007f587c0f32e0] gl gl:       align_vertex_stride:       1
+[00007f587c0f32e0] gl gl:       max_dispatch[0]:           65535
+[00007f587c0f32e0] gl gl:       max_dispatch[1]:           65535
+[00007f587c0f32e0] gl gl:       max_dispatch[2]:           65535
+[00007f587c0f32e0] gl gl:       fragment_queues:           1
+[00007f587c0f32e0] gl gl:       compute_queues:            1
+status change: ( time: 0s )
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255
+Sending netbios packet to 192.168.60.255

@@ -30,7 +30,7 @@ if  ! pgrep -F /home/user/tvProject/play.pid >/dev/null;
 then
     	echo "schedule play"
 	#xrandr --output DIN --set "tv standard" pal
-	bash /home/user/tvProject/tvControl.sh play
+	#bash /home/user/tvProject/tvControl.sh play
 fi
 
 
