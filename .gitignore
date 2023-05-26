@@ -1,6 +1,5 @@
-/tvControl.pyc
-/cron.log
-/vlcState.txt
-/vlc.log*
-/.config
-/.local
+/*
+!/.gitignore
+!/tvProject
+!/tvProject-manager
+

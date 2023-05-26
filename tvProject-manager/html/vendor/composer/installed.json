@@ -1,0 +1,48 @@
+[
+    {
+        "name": "jalder/upnp",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jalder/UPnP.git",
+            "reference": "7559815f0ef16b6e96bc8be59a08bf5a464523ef"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/jalder/UPnP/zipball/7559815f0ef16b6e96bc8be59a08bf5a464523ef",
+            "reference": "7559815f0ef16b6e96bc8be59a08bf5a464523ef",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.1.*"
+        },
+        "time": "2017-11-01T13:25:11+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "jalder\\Upnp\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "John Alder",
+                "email": "jack@jalder.com"
+            }
+        ],
+        "description": "UPnP utilities for PHP applications",
+        "keywords": [
+            "Roku",
+            "chromecast",
+            "kodi",
+            "ssdp",
+            "upnp",
+            "xbmc"
+        ]
+    }
+]

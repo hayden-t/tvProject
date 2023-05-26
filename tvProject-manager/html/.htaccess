@@ -1,0 +1,5 @@
+AuthUserFile /var/www/html/.htpasswd
+AuthType Basic
+AuthName "Channel 702 Login"
+Require valid-user
+#user/user
