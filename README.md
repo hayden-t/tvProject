@@ -10,4 +10,4 @@ branch 703 has web based Playlist Editor, but newer vlc daemon with supervisor a
 
 branch tracking has the python scripts for motion tracking and PTZ IP camera control
 
-Eventually I plan to merge both branches, and rewrite the playlist editor
+Eventually I plan to merge branches, and rewrite the playlist editor and motion tracker
