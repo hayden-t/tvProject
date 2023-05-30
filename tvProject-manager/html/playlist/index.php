@@ -81,7 +81,7 @@ if($_POST) {
 		err(403,"XSRF Failure");
 }
 
-$file = $requestFile ?: '/mnt/sda3/Library/Relaxation';
+$file = $requestFile ?: '/mnt/Media/Library/Relaxation';
 
 
 if($getDo == 'list') {
@@ -621,7 +621,7 @@ $(function(){
 <div style="display:flex;overflow:auto">
 	<div style="width:50%;overflow-y:scroll">
 		<table id="table"><thead><tr>
-			<th>Files Available - Disk Space: <?php echo  100-intval((disk_free_space("/mnt/sda3")/disk_total_space("/mnt/sda3"))*100).'% - '.intval(disk_free_space("/mnt/sda3")/1000000000).' GB';?></th>
+			<th>Files Available - Disk Space: <?php echo  100-intval((disk_free_space("/mnt/Media")/disk_total_space("/mnt/Media"))*100).'% - '.intval(disk_free_space("/mnt/Media")/1000000000).' GB';?></th>
 			<!--<th>Size</th>-->
 			<!--<th>Length</th>-->
 			<!--<th>Modified</th>

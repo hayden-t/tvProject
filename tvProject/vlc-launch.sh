@@ -12,4 +12,4 @@ md5sum $playlist > $path'playlist.md5'
 
 #become vlc, if window closed will be in hang state, use kill -9 pid
 #--intf=dummy --random
-exec /snap/bin/vlc --extraintf=oldrc --rc-unix=$path'vlc.sock' --rc-fake-tty --loop  --fullscreen --codec=ffmpeg--log-verbose=0 $playlist
+exec /snap/bin/vlc --extraintf=oldrc --rc-unix=$path'vlc.sock' --rc-fake-tty --loop --random  --fullscreen --codec=ffmpeg--log-verbose=0 $playlist

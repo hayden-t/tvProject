@@ -4,3 +4,5 @@
 /vlc.log*
 /.config
 /.local
+/playlist.md5
+/play.pid
