@@ -1,0 +1,104 @@
+#!/usr/bin/env python
+
+import socket
+import time
+
+TCP_IP = '192.168.1.200'
+TCP_PORT = 5678
+BUFFER_SIZE = 11 #max bytes returned in protocol
+TIMEOUT = 5 #seconds
+
+#pan/tilt
+MESSAGE = bytearray([	0x81, 0x01, 0x06, 0x02, #command
+						0x09, 0x09, #pan & tilt speed: 0x01-0x18 (24 steps)
+						0x0f, #left: 0x0f or right: 0x00
+						0x0f, 0x0e, 0x00, # 0x00 to 0x0f for each (16 steps), going up for right, and down for left
+						0x00, #up: 0x00 or down: 0x0f
+						0x00, 0x00, 0x00, # 0x00 to 0x0f for each (16 steps), going up for up, and down for down
+						0xff #end
+					])
+#zoom
+MESSAGE = bytearray([	0x81, 0x01, 0x04, 0x47, #command
+						0x04, 0x00, 0x00, 0x00, #zoom 0x00 out 0x4 inn
+						0xff #end
+					])
+MESSAGE = bytearray([0x81, 0x09, 0x04, 0x47, 0xff])#zoom request
+
+MESSAGE = bytearray([0x81, 0x09, 0x06, 0x12, 0xff])#pan/tilt	
+				
+MESSAGE = bytearray([0x81, 0x01, 0x06, 0x04, 0xff])#home
+					
+MESSAGE = bytearray([0x81, 0x01, 0x04, 0x07,0x20,0xff])#slowest zoom in
+
+
+MESSAGE = bytearray([0x81, 0x01, 0x04, 0x66,0x0,0xff])#flip image
+
+MESSAGE = bytearray([0x81, 0x09, 0x04, 0x05, 0xff])#sharpness mode inq 0x02 auto 0x03 manual
+
+MESSAGE = bytearray([0x81, 0x09, 0x04, 0x42, 0xff])#sharpness level inq
+
+#MESSAGE = bytearray([0x81, 0x01, 0x04, 0x05, 0x02, 0xff])#sharpness mode set
+#MESSAGE = bytearray([0x81, 0x01, 0x04, 0x42, 0x00, 0x00, 0x00, 0x06, 0xff])#sharpness level set
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.settimeout(TIMEOUT)
+s.connect((TCP_IP, TCP_PORT))
+
+
+#data = s.recv(BUFFER_SIZE)
+
+s.send(MESSAGE)
+
+
+s.setblocking(0)
+packet = []
+
+messages = 	[
+				[0x90, 0x41, 0xff],"ACK,socket 1",
+				[0x90, 0x42, 0xff],"ACK, socket 2",
+				[0x90, 0x51, 0xff],"Completion, socket 1",
+				[0x90, 0x52, 0xff],"Completion, socket 2",
+				[0x90, 0x60, 0x02, 0xff],"Syntax Error",
+				[0x90, 0x60, 0x03, 0xff],"Command Buffer Full",
+				[0x90, 0x61, 0x04, 0xff],"Command Cancelled, socket 1",
+				[0x90, 0x62, 0x04, 0xff],"Command Cancelled, socket 2",
+				[0x90, 0x61, 0x05, 0xff],"No Socket, socket 1",
+				[0x90, 0x62, 0x05, 0xff],"No Socket, socket 2",		
+				[0x90, 0x61, 0x41, 0xff],"Command Not Executable, socket 1",
+				[0x90, 0x62, 0x41, 0xff],"Command Not Executable, socket 2",
+			]
+			
+
+
+while(1):
+
+	try:
+		data = s.recv(1)
+		
+		while(data):
+			packet.append(ord(data))
+			if ord(data) == 0xff :				
+				if packet in messages:
+					index = messages.index(packet)
+					if index > -1: print messages[index+1]#only print errors
+				else:
+					if packet[0] == 0x90 and packet[1] == 0x50:#enquiry response
+						print packet
+					else:
+						print "unknown packet: " + repr(packet)
+				packet = []
+				#packet end 0xff
+				
+			data = s.recv(1)
+			
+	except:#no data
+		pass
+		
+
+
+
+
+
+s.close()
+
+
