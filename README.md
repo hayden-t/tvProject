@@ -1,6 +1,8 @@
 # tvProject
 
-Check branches
+Hackaday prize/project entry https://hackaday.io/project/191317-automated-video-playout-for-matv-featuring-opencv
+
+Check branches for content
 
 branch 700 has the "Live Events" system which is written in python and features remote control web interface, but vlc is still daemoned through cron
 
