@@ -8,3 +8,4 @@ branch 700 has the "Live Events" system which is written in python and features 
 
 branch 703 has web based Playlist Editor, but newer vlc daemon with supervisor and control via rc interface
 
+Eventually I plan to merge both branches, and rewrite the playlist editor
